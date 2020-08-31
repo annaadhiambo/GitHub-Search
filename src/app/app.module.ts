@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { HttpClientModule } from '@angular/common/http';
 import { OpenComponent } from './open/open.component';
+import { FormComponent } from './form/form.component';
 
 
 
@@ -15,6 +16,7 @@ import { OpenComponent } from './open/open.component';
     AppComponent,
     NavbarComponent,
     OpenComponent,
+    FormComponent,
     
   ],
   imports: [
