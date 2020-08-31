@@ -18,7 +18,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Typscript
 
 ## BDD(Behavior Driven Development)
-* Still working on the project.
+* Still working on the project
 
 ## Development server
 
