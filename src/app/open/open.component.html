@@ -1,7 +1,6 @@
-
-<app-navbar></app-navbar>
-<app-form (searchEvent)="getUser($event)"></app-form>
 <div class="container">
+    <app-navbar></app-navbar>
+    <app-form (searchEvent)="getUser($event)"></app-form>
     <div class="row">
         <div class="col-md-6 pt-3">
             <img class="card" src="{{ user.avatar_url }}">
